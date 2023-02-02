@@ -10,3 +10,7 @@ _A daily summary of what I learned or accomplished._
 ### Day 1: February 1, 2023
 
 Learned the difference between interpreters and compilers, how the Chrome V8 JavaScript engine runs and what call stacks and memory heaps are.
+
+### Day 2: February 2, 2023
+
+Learned how JavaScript runtime allows us to run functions asynchronously to create rich applications on a JS's single-threaded language.
