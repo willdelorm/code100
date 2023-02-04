@@ -14,3 +14,9 @@ Learned the difference between interpreters and compilers, how the Chrome V8 Jav
 ### Day 2: February 2, 2023
 
 Learned how JavaScript runtime allows us to run functions asynchronously to create rich applications on a JS's single-threaded language.
+
+### Day 3: February 3, 2023
+
+Learned about execution context in JavaScript engines, the creation and execution phases of these context and hoisting variables and functions.
+
+Completed CodeWars exercises focused on creating and iterating through arrays.
