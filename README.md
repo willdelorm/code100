@@ -20,3 +20,9 @@ Learned how JavaScript runtime allows us to run functions asynchronously to crea
 Learned about execution context in JavaScript engines, the creation and execution phases of these context and hoisting variables and functions.
 
 Completed CodeWars exercises focused on creating and iterating through arrays.
+
+### Day 4: February 4, 2023
+
+Set up Github profile README, looking extra sharp now!
+Created GitPages repo.
+Built TicTacToe game and Weather app.
