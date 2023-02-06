@@ -26,3 +26,13 @@ Completed CodeWars exercises focused on creating and iterating through arrays.
 Set up Github profile README, looking extra sharp now!
 Created GitPages repo.
 Built TicTacToe game and Weather app.
+
+### Day 5: February 6, 2023
+
+Learned about variable environments, scope and IIFEs. Gained a lot of clarity on the `this` keyword.
+
+## Missed Days to Make Up
+
+_Total Days: 1_
+
+February 5, 2023
