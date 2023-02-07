@@ -31,6 +31,11 @@ Built TicTacToe game and Weather app.
 
 Learned about variable environments, scope and IIFEs. Gained a lot of clarity on the `this` keyword.
 
+### Day 6: February 7, 2023
+
+Learned how to use call, apply, and bind.
+Revised web developer resume.
+
 ## Missed Days to Make Up
 
 _Total Days: 1_
