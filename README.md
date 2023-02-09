@@ -36,6 +36,10 @@ Learned about variable environments, scope and IIFEs. Gained a lot of clarity on
 Learned how to use call, apply, and bind.
 Revised web developer resume.
 
+### Day 7: February 8, 2023
+
+Learned about static and dynamically typed languages, primitive and non-primitive types and type coercion.
+
 ## Missed Days to Make Up
 
 _Total Days: 1_
