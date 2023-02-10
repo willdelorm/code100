@@ -40,6 +40,11 @@ Revised web developer resume.
 
 Learned about static and dynamically typed languages, primitive and non-primitive types and type coercion.
 
+### Day 8: February 9, 2023
+
+Learned about higher order functions and closures.
+Began a quote generator project.
+
 ## Missed Days to Make Up
 
 _Total Days: 1_
