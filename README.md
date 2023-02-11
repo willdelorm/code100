@@ -45,6 +45,11 @@ Learned about static and dynamically typed languages, primitive and non-primitiv
 Learned about higher order functions and closures.
 Began a quote generator project.
 
+### Day 9: February 10, 2023
+
+Learned about prototypal inheritance.
+Finished build of quote generator.
+
 ## Missed Days to Make Up
 
 _Total Days: 1_
