@@ -50,6 +50,20 @@ Began a quote generator project.
 Learned about prototypal inheritance.
 Finished build of quote generator.
 
+### Day 10: February 11, 2023
+
+Started build of infinite scroll project.
+
+### Day 11: February 12, 2023
+
+Completed build of infinite scroll project.
+
+### Day 12: February 13, 2023
+
+_JavaScript: The Advanced Concepts_ (43%), Started OOP section
+_Career Advice_ (42%), Updated LinkedIn profile
+Worked on portfolio site
+
 ## Missed Days to Make Up
 
 _Total Days: 1_
