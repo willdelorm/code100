@@ -63,6 +63,7 @@ Completed build of infinite scroll project.
 _JavaScript: The Advanced Concepts_ (43%), Started OOP section
 _Career Advice_ (42%), Updated LinkedIn profile
 Worked on portfolio site
+_JS Web Projects_ (20%), Completed Picture in Picture project
 
 ## Missed Days to Make Up
 
