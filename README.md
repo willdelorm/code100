@@ -65,6 +65,10 @@ _Career Advice_ (42%), Updated LinkedIn profile
 Worked on portfolio site
 _JS Web Projects_ (20%), Completed Picture in Picture project
 
+### Day 13: February 14, 2023
+
+_JavaScript: The Advanced Concepts_ (49%), Finished OOP section
+
 ## Missed Days to Make Up
 
 _Total Days: 1_
