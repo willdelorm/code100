@@ -68,6 +68,16 @@ _JS Web Projects_ (20%), Completed Picture in Picture project
 ### Day 13: February 14, 2023
 
 _JavaScript: The Advanced Concepts_ (49%), Finished OOP section
+_JS Web Projects_ (23%), Built the Joke Teller project
+
+### Day 14: February 15, 2023
+
+_JavaScript: The Advanced Concepts_ (53%), Functional Programming
+Designed portfolio website, laid it out in Figma
+
+### Day 15: February 16, 2023
+
+_JavaScript: The Advanced Concepts_ (59%), Async and Promises
 
 ## Missed Days to Make Up
 
