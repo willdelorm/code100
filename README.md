@@ -79,6 +79,10 @@ Designed portfolio website, laid it out in Figma
 
 _JavaScript: The Advanced Concepts_ (59%), Async and Promises
 
+### Day 16: February 18, 2023
+
+_JS Web Projects_ (27%) Built the Dark/Light Mode project
+
 ## Missed Days to Make Up
 
 _Total Days: 2_
