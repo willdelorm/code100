@@ -81,6 +81,7 @@ _JavaScript: The Advanced Concepts_ (59%), Async and Promises
 
 ## Missed Days to Make Up
 
-_Total Days: 1_
+_Total Days: 2_
 
 February 5, 2023
+February 17, 2023
