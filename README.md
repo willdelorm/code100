@@ -83,6 +83,15 @@ _JavaScript: The Advanced Concepts_ (59%), Async and Promises
 
 _JS Web Projects_ (27%) Built the Dark/Light Mode project
 
+### Day 17: February 19, 2023
+
+_JavaScript: The Advanced Concepts_ (63%) Finished section on Async
+Built out portfolio HTML/CSS
+
+### Day 18: February 20, 2023
+
+_JavaScript: The Advanced Concepts_ (68%) Learned about modules: IIFEs, CommonJS, AMD and native ES6 integration
+
 ## Missed Days to Make Up
 
 _Total Days: 2_
