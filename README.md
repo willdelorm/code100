@@ -91,6 +91,12 @@ Built out portfolio HTML/CSS
 ### Day 18: February 20, 2023
 
 _JavaScript: The Advanced Concepts_ (68%) Learned about modules: IIFEs, CommonJS, AMD and native ES6 integration
+Finshed portfolio layout & some functionality
+
+### Day 19: February 21, 2023
+
+Completed _JavaScript: The Advanced Concepts_ on __Zero to Mastery__!
+Continued to improve portfolio functionality
 
 ## Missed Days to Make Up
 
