@@ -98,6 +98,16 @@ Finshed portfolio layout & some functionality
 Completed _JavaScript: The Advanced Concepts_ on __Zero to Mastery__!
 Continued to improve portfolio functionality
 
+### Day 20: February 22, 2023
+
+Began ZTM's _Complete React Developer_ course (13%). Let's go, _create-react-app_!
+
+### Day 21: February 23, 2023
+
+_Complete React Developer_ (17%), finished Monsters Rolodex project using classes, learned about lifecycle methods, rendering and re-rendering
+_JS Web Projects_ (29%), completed the animation-template project, super cool to discover the `animate on scroll` library!
+Personal Portfolio, made site mobile-friendly, cleaned up CSS a bit
+
 ## Missed Days to Make Up
 
 _Total Days: 2_
