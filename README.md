@@ -1,10 +1,13 @@
 # 100 Days of Code
+
 _For the next 100 days, I will spend at least one hour learning or coding with the intention of becoming a better developer._
 
 ## Projects
+
 _The projects I worked on during this challenge._
 
 ## Daily Log
+
 _A daily summary of what I learned or accomplished._
 
 ### Day 1: February 1, 2023
@@ -95,7 +98,7 @@ Finshed portfolio layout & some functionality
 
 ### Day 19: February 21, 2023
 
-Completed _JavaScript: The Advanced Concepts_ on __Zero to Mastery__!
+Completed _JavaScript: The Advanced Concepts_ on **Zero to Mastery**!
 Continued to improve portfolio functionality
 
 ### Day 20: February 22, 2023
@@ -107,6 +110,12 @@ Began ZTM's _Complete React Developer_ course (13%). Let's go, _create-react-app
 _Complete React Developer_ (17%), finished Monsters Rolodex project using classes, learned about lifecycle methods, rendering and re-rendering
 _JS Web Projects_ (29%), completed the animation-template project, super cool to discover the `animate on scroll` library!
 Personal Portfolio, made site mobile-friendly, cleaned up CSS a bit
+
+### Day 22: February 24, 2023
+
+_Complete React Developer_ (24%), learned about functional components, setup capstone project
+Watched Yihua's _Getting Your First Dev Job_ workshop, insanely helpful stuff!
+Pushed live my [portfolio website](https://willdelorm.com)
 
 ## Missed Days to Make Up
 
