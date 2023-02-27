@@ -117,6 +117,15 @@ _Complete React Developer_ (24%), learned about functional components, setup cap
 Watched Yihua's _Getting Your First Dev Job_ workshop, insanely helpful stuff!
 Pushed live my [portfolio website](https://willdelorm.com)
 
+### Day 23: February 25, 2023
+
+_Complete React Developer_ (29%) learned about routing, React-Router, Firebase's authentication and firestore database, setup user sign in and document creation
+_JS Web Projects_ (32%) completed the Navigation Nation project
+
+### Day 24: February 26, 2023
+
+_Complete React Developer_ (31%) finished authentication page by adding sign up form and sign in form with email and password or Google sign in
+
 ## Missed Days to Make Up
 
 _Total Days: 2_
