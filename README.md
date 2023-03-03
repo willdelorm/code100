@@ -126,6 +126,24 @@ _JS Web Projects_ (32%) completed the Navigation Nation project
 
 _Complete React Developer_ (31%) finished authentication page by adding sign up form and sign in form with email and password or Google sign in
 
+### Day 25: February 27, 2023
+
+_Complete React Developer_ (34%) added sign out functionality, optimized authentication with observer listener, created product context
+
+### Day 26: February 28, 2023
+
+_Complete React Developer_ (38%) learned about Context, built out shopping cart and checkout page
+
+### Day 27: March 1, 2023
+
+_Complete React Developer_ (40%), added collections to database, created category previews and category pages
+Taking the briefest pause in this course to review all I've learned so far and make sure I understand it.
+
+### Day 28: March 2, 2023
+
+_Complete React Developer_ (42%), learn about Styled-Components and CSS-in-JS, converted SCSS files to styled components
+Started working on personal project, a workout tracking app for rock climbing
+
 ## Missed Days to Make Up
 
 _Total Days: 2_
