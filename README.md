@@ -144,6 +144,12 @@ Taking the briefest pause in this course to review all I've learned so far and m
 _Complete React Developer_ (42%), learn about Styled-Components and CSS-in-JS, converted SCSS files to styled components
 Started working on personal project, a workout tracking app for rock climbing
 
+### Day 29: March 3, 2023
+
+_Complete React Developer_ (44%) learned about Reducers, added them to e-commerce project, didn't fully pull my hair out while doing so...
+_Career Advice_ (76%) watched the videos on non-technical interviews, lined up time to work on answers for the common questions
+Decided on a project to build over the weekend using what I've learned recently
+
 ## Missed Days to Make Up
 
 _Total Days: 2_
