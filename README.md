@@ -158,6 +158,7 @@ Started working on blog project
 ### Day 31: March 5, 2023
 
 Completed _Career Advice_ course. Learning about negotiations and offers got me energized to find myself in that position one day soon!
+Implemented login/logout capability on blog thru Firebase Auth. First time without a code along, feeling pretty proud!
 
 ## Missed Days to Make Up
 
