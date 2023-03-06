@@ -150,6 +150,15 @@ _Complete React Developer_ (44%) learned about Reducers, added them to e-commerc
 _Career Advice_ (76%) watched the videos on non-technical interviews, lined up time to work on answers for the common questions
 Decided on a project to build over the weekend using what I've learned recently
 
+### Day 30: March 4, 2023
+
+_JS Web Projects_ (36%) built a music player with local music files
+Started working on blog project
+
+### Day 31: March 5, 2023
+
+Completed _Career Advice_ course. Learning about negotiations and offers got me energized to find myself in that position one day soon!
+
 ## Missed Days to Make Up
 
 _Total Days: 2_
