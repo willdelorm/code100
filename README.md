@@ -160,9 +160,37 @@ Started working on blog project
 Completed _Career Advice_ course. Learning about negotiations and offers got me energized to find myself in that position one day soon!
 Implemented login/logout capability on blog thru Firebase Auth. First time without a code along, feeling pretty proud!
 
+### Day 32: March 6, 2023
+
+_Complete React Developer_ (46%) started to integrate Redux into Crwn Clothing project
+Set up database for blog app with Firestore. Compose page now writes to db. :D
+
+### Day 33: March 7, 2023
+
+_Complete React Developer_ (49%) replaced some Context with Redux store, getting a clearer sense of how it all works
+
+### Day 34: March 8, 2023
+
+_Complete React Developer_ (50%) finished migrating Redux store
+
+### Day 35: March 9, 2023
+
+_Complete React Developer_ (53%) learned about Redux-Persist, Redux-Thunk, Redux-Saga
+
+### Day 36: March 13, 2023
+
+Really tired over the weekend, couldn't muster energy to get much done. But here we are, back at it again!
+_Complete React Developer_ (54%) rewatched and completed redux-saga section. such a dense chapter, and one I'll have to come back to again at some point
+
+### Day 37: March 14, 2023
+
+Emailed a VP of a company I want to apply for!
+_Complete React Developer_ (57%) completed the Redux Toolkit chapter, a breath of air after getting down into all the thunks and sagas
+
 ## Missed Days to Make Up
 
-_Total Days: 2_
+_Total Days: 5_
 
 February 5, 2023
 February 17, 2023
+March 10-12, 2023
