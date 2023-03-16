@@ -190,6 +190,12 @@ _Complete React Developer_ (57%) completed the Redux Toolkit chapter, a breath o
 ### Day 38: March 15, 2023
 
 _Complete React Developer_ (59%) completed Serverless Functions + Stripe chapter and capstone project!
+Styled out blog home page
+
+### Day 39: March 16, 2023
+
+Blog project: added post history page and navigation to individual posts
+_Complete React Developer_ (61%) converted MonstersRolodex to TypeScript, just feels like extra coding but I will trust the process!
 
 ## Missed Days to Make Up
 
