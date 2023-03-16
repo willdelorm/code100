@@ -187,6 +187,10 @@ _Complete React Developer_ (54%) rewatched and completed redux-saga section. suc
 Emailed a VP of a company I want to apply for!
 _Complete React Developer_ (57%) completed the Redux Toolkit chapter, a breath of air after getting down into all the thunks and sagas
 
+### Day 38: March 15, 2023
+
+_Complete React Developer_ (59%) completed Serverless Functions + Stripe chapter and capstone project!
+
 ## Missed Days to Make Up
 
 _Total Days: 5_
