@@ -197,6 +197,11 @@ Styled out blog home page
 Blog project: added post history page and navigation to individual posts
 _Complete React Developer_ (61%) converted MonstersRolodex to TypeScript, just feels like extra coding but I will trust the process!
 
+### Day 40: March 17, 2023
+
+Blog project: Built out and styled template Post page
+_Complete React Developer_ (63%) began to convert Crwn Clothing app to TypeScript, converted categories reducer and selectors
+
 ## Missed Days to Make Up
 
 _Total Days: 5_
