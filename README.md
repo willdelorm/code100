@@ -202,10 +202,25 @@ _Complete React Developer_ (61%) converted MonstersRolodex to TypeScript, just f
 Blog project: Built out and styled template Post page
 _Complete React Developer_ (63%) began to convert Crwn Clothing app to TypeScript, converted categories reducer and selectors
 
+### Day 41: March 18, 2023
+
+Blog project: tinkered with routing, getting stuck on navigating to post pages from Home/Archive pages
+
+### Day 42: March 21, 2023
+
+Reached out to two companies to chat with them about working for them
+
+### Day 43: March 24, 2023
+
+_Complete React Developer_ (64%) restarted TypeScript section for Crwn Clothing, converted reducers
+
 ## Missed Days to Make Up
 
-_Total Days: 5_
+_Total Days: 12_
 
 February 5, 2023
 February 17, 2023
 March 10-12, 2023
+March 19-20
+March 22-23
+March 25-27
