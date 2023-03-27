@@ -214,6 +214,10 @@ Reached out to two companies to chat with them about working for them
 
 _Complete React Developer_ (64%) restarted TypeScript section for Crwn Clothing, converted reducers
 
+### Day 44: March 27
+
+_Complete React Developer_ (69%) nice, completed converting Crwn Clothing project to TypeScript
+
 ## Missed Days to Make Up
 
 _Total Days: 12_
