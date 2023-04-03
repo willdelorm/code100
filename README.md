@@ -218,13 +218,18 @@ _Complete React Developer_ (64%) restarted TypeScript section for Crwn Clothing,
 
 _Complete React Developer_ (69%) nice, completed converting Crwn Clothing project to TypeScript
 
+### Day 45: March 29
+
+_Complete React Developer_ (73%) learned about GraphQL + Apollo and some React optimization tools
+
+### Day 46: March 31
+
+_Complete React Developer_ (73%) learned about PWAs
+
+### Day 47: April 3
+
+_Complete React Developer_ (86%) started learning about testing, specifically with Jest
+
 ## Missed Days to Make Up
 
-_Total Days: 12_
-
-February 5, 2023
-February 17, 2023
-March 10-12, 2023
-March 19-20
-March 22-23
-March 25-27
+_Total Days Missed: 15_
